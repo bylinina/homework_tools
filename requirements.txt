@@ -1,0 +1,3 @@
+ipywidgets                    8.1.0
+jupyterlab-widgets            3.0.8
+widgetsnbextension            4.0.8
