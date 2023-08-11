@@ -1,5 +1,2 @@
 numpy
-random
-math
-string
 streamlit==1.25.0
